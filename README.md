@@ -6,3 +6,5 @@ Clone the repo and run the provided Makefile.
 Run ./prog3 *filename* to read in songs from *filename*.
 An example of this can be found in "music_database.in"
 
+# If you're a student, don't plaigarize this.
+They'll know. 
